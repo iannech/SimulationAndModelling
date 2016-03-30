@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1459277518 source:f:\class\3rd year\sem 2\simulation and modelling\singleseverqueuingsimulation\lcgrand.c
+
+1459277975 source:f:\class\3rd year\sem 2\simulation and modelling\singleseverqueuingsimulation\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"lcgrand.h"
+
+1459277574 f:\class\3rd year\sem 2\simulation and modelling\singleseverqueuingsimulation\lcgrand.h
+	"lcgrand.h"
+
